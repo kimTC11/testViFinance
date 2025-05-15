@@ -1,0 +1,6 @@
+jsonlines==4.0.0
+openai==0.28.1
+tqdm==4.66.1
+editdistance==0.6.2
+tree-sitter==0.20.4
+scikit-learn==1.5.0
